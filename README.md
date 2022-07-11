@@ -1,5 +1,8 @@
 # Unit 15 Homework: Visualizing Data with Leaflet
 
+![5-Advanced](https://user-images.githubusercontent.com/101227638/178177334-7bf1de55-3286-4674-b6e7-c25458644a73.png)
+
+
 ## Background
 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
@@ -28,7 +31,8 @@ The instructions for this activity are broken into two parts:
 
 ### Part 1: Create the Earthquake Visualization
 
-![2-BasicMap](Images/2-BasicMap.png)
+![2-BasicMap](https://user-images.githubusercontent.com/101227638/178177267-0ec9ccde-7491-428c-b03d-0febf3d4ba48.png)
+
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
@@ -36,11 +40,13 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
    * The USGS provides earthquake data in a number of different formats, updated every five minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 
-   ![3-Data](Images/3-Data.png)
+  ![3-Data](https://user-images.githubusercontent.com/101227638/178177279-f194b480-66e5-4f08-972a-6a2811fdcdc0.png)
+
 
     * When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 
-   ![4-JSON](Images/4-JSON.png)
+   ![4-JSON](https://user-images.githubusercontent.com/101227638/178177299-494953d3-9738-4daa-b698-b4d48a33858a.png)
+
 
 2. Import and visualize the data by doing the following: 
 
@@ -64,7 +70,8 @@ The USGS wants you to plot a second dataset on your map to illustrate the relati
 
 The following image is an example screenshot of what the USGS would like you to produce:
 
-![5-Advanced](Images/5-Advanced.png)
+![5-Advanced](https://user-images.githubusercontent.com/101227638/178177316-ae7be737-df30-4dae-bd95-f13064ae0cea.png)
+
 
 Perform the following tasks: 
 
